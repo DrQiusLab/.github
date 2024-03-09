@@ -4,7 +4,6 @@
   🍿 <a href="#contact">Contact</a>
   🧙 <a href="#about">About</a>
 </div>
-#
 
 ## Hi there 👋
 
