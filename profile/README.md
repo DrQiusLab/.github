@@ -1,10 +1,8 @@
-<p style="text-align:center">
-  <div>
-    👋 <a class="active" href="#home">Home</a>
-    🌈 <a href="#news">News</a>
-    🍿 <a href="#contact">Contact</a>
-    🧙 <a href="#about">About</a>
-  </div>
+<p align="center">
+    👋 <a class="active" href="#home"><b>Home</b></a> &nbsp;
+    🌈 <a href="#news"><b>News</b></a> &nbsp;
+    🍿 <a href="#contact"><b>Contact</b></a> &nbsp;
+    🧙 <a href="#about"><b>About</b></a>
 </p>
 
 ![banner](/images/banner.png "Logo Title Text 1")
