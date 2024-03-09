@@ -1,9 +1,11 @@
-<div class="topnav" type="text/css" href="/css/home_page.css">
-  👋 <a class="active" href="#home">Home</a>
-  🌈 <a href="#news">News</a>
-  🍿 <a href="#contact">Contact</a>
-  🧙 <a href="#about">About</a>
-</div>
+<p style="text-align:center">
+  <div>
+    👋 <a class="active" href="#home">Home</a>
+    🌈 <a href="#news">News</a>
+    🍿 <a href="#contact">Contact</a>
+    🧙 <a href="#about">About</a>
+  </div>
+</p>
 
 ![banner](/images/banner.png "Logo Title Text 1")
 
