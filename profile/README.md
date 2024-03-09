@@ -5,7 +5,7 @@
     🧙 <a href="#about"><b>About</b></a>
 </p>
 
-![banner](/images/banner_002.png "Logo Title Text 1")
+![banner](/images/banner_01a.png "Logo Title Text 1")
 
 <h2 align="center">Hi there 👋</h2>
 
