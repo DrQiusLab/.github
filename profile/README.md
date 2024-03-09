@@ -7,7 +7,7 @@
 
 ![banner](/images/banner.png "Logo Title Text 1")
 
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
 <!--
 
