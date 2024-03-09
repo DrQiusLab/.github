@@ -7,7 +7,7 @@
 
 ![banner](/images/banner_01a.png "Logo Title Text 1")
 
-<h2 align="center">Hi there 👋</h2>
+<h2 align="center">An Introducion of the FHS-BAP Programe</h2>
 
 <!--
 
