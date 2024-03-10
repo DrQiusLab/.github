@@ -5,7 +5,7 @@
     🧙 <a href="#about"><b>About</b></a>
 </p>
 
-![banner](/images/banner_02.jpg "Logo Title Text 1")
+![banner](/images/banner_01.jpg "Logo Title Text 1")
 
 <h2 align="center">An Introducion of the FHS-BAP Programe</h2>
 
